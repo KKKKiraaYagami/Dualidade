@@ -1,0 +1,5 @@
+{
+  "name": "Dados de Dualidade (Daggerheart)",
+  "description": "Um rolador de dados especializado para o sistema Daggerheart, apresentando dados de Esperança e Medo com cálculo automático de resultados de dualidade.",
+  "requestFramePermissions": []
+}
